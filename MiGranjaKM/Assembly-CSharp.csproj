@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MovimientoJugador.cs" />
+    <Compile Include="Assets\Scripts\GallinaMovimiento.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
