@@ -63,6 +63,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\MovimientoJugador.cs" />
     <Compile Include="Assets\Scripts\GallinaMovimiento.cs" />
+    <Compile Include="Assets\Scripts\Ponedora.cs" />
+    <Compile Include="Assets\Scripts\VacaMovimiento.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
