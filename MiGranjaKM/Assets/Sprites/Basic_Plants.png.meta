@@ -1,19 +1,43 @@
 fileFormatVersion: 2
-guid: 0498fe38f777c094fbdc0d106727aa49
+guid: 274cd979892621d4eb6b4264987204d1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7614176681532881009
-    second: Fences_0
+      213: 8474670595409141939
+    second: Basic_Plants_0
   - first:
-      213: 1159864494577512369
-    second: Fences_1
+      213: -7396305697263286651
+    second: Basic_Plants_1
   - first:
-      213: 3953150516908535398
-    second: Fences_2
+      213: 3868332834043518974
+    second: Basic_Plants_2
   - first:
-      213: 4288597548307622778
-    second: Fences_3
+      213: 6812107102740459891
+    second: Basic_Plants_3
+  - first:
+      213: -4968072622433853253
+    second: Basic_Plants_4
+  - first:
+      213: -8553166176874854604
+    second: Basic_Plants_5
+  - first:
+      213: 2018227706277626003
+    second: Basic_Plants_6
+  - first:
+      213: -167575426429258219
+    second: Basic_Plants_7
+  - first:
+      213: -1044968166336746788
+    second: Basic_Plants_8
+  - first:
+      213: 934722249265953344
+    second: Basic_Plants_9
+  - first:
+      213: 6330426110891526577
+    second: Basic_Plants_10
+  - first:
+      213: -8046388129001153825
+    second: Basic_Plants_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,183 +146,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fences_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f878b2856a2055690800000000000000
-      internalID: -7614176681532881009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fences_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1bf61e2dc9aa81010800000000000000
-      internalID: 1159864494577512369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fences_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66e2cff43796cd630800000000000000
-      internalID: 3953150516908535398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fences_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7bac7b8fb8248b30800000000000000
-      internalID: 4288597548307622778
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fences_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4b33d1b43e1080b4488db27c1764ae2d
-      internalID: 1000830306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fences_5
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6652675e779d6d47a2c4fcd7897766f
-      internalID: 533000606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fences_6
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6c4c9d497bfce94fb0c217644c0ccb0
-      internalID: 499335687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fences_7
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37bad2c20d8168741836b2fa58897c51
-      internalID: -1967719529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Fences_8
+      name: Basic_Plants_0
       rect:
         serializedVersion: 2
         x: 0
@@ -311,16 +159,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d217b984cece40d4a83e9b3959aa0add
-      internalID: -537525510
+      spriteID: 3b06fcb71041c9570800000000000000
+      internalID: 8474670595409141939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fences_9
+      name: Basic_Plants_1
       rect:
         serializedVersion: 2
         x: 16
@@ -333,16 +181,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ebd9de3dce7fac542b510c3bb91f90d1
-      internalID: 1908793643
+      spriteID: 5868c68d72b0b5990800000000000000
+      internalID: -7396305697263286651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fences_10
+      name: Basic_Plants_2
       rect:
         serializedVersion: 2
         x: 32
@@ -355,16 +203,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2274a8596099a634cbd9bdd2075467c3
-      internalID: 1175483136
+      spriteID: effd42e97341fa530800000000000000
+      internalID: 3868332834043518974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fences_11
+      name: Basic_Plants_3
       rect:
         serializedVersion: 2
         x: 48
@@ -377,16 +225,60 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5e7a976af82234540af2a53241be295f
-      internalID: 1045323754
+      spriteID: 371b2ce5157798e50800000000000000
+      internalID: 6812107102740459891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fences_12
+      name: Basic_Plants_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ac79954cdd0bb0800000000000000
+      internalID: -4968072622433853253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Plants_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4370d72cdac0d4980800000000000000
+      internalID: -8553166176874854604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Plants_6
       rect:
         serializedVersion: 2
         x: 0
@@ -399,16 +291,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2e208f8c968d47141b65946b650c9021
-      internalID: -166337960
+      spriteID: 3908784e76f220c10800000000000000
+      internalID: 2018227706277626003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fences_13
+      name: Basic_Plants_7
       rect:
         serializedVersion: 2
         x: 16
@@ -421,16 +313,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 669598f1035902f4fa23bcd90a5f5552
-      internalID: 1186230325
+      spriteID: 516799a9907acadf0800000000000000
+      internalID: -167575426429258219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fences_14
+      name: Basic_Plants_8
       rect:
         serializedVersion: 2
         x: 32
@@ -443,16 +335,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6d326473da98aa445bc9fff341581ded
-      internalID: 2127430254
+      spriteID: cda28eb3df68f71f0800000000000000
+      internalID: -1044968166336746788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fences_15
+      name: Basic_Plants_9
       rect:
         serializedVersion: 2
         x: 48
@@ -465,10 +357,54 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5ad1d5ccb743bbd4a8a373feeb16f3e8
-      internalID: 348412358
+      spriteID: 04ab62feeecc8fc00800000000000000
+      internalID: 934722249265953344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Plants_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b90c8002013ad750800000000000000
+      internalID: 6330426110891526577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Plants_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda57f5d0ac755090800000000000000
+      internalID: -8046388129001153825
       vertices: []
       indices: 
       edges: []
@@ -477,7 +413,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 22a32a88bd7694349ad99ea8637d9ac3
+    spriteID: e7ba678a436e0bb45bef5cbe2595e8d2
     internalID: 0
     vertices: []
     indices: 
@@ -487,24 +423,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":16.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":2.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Fences_0: -7614176681532881009
-      Fences_1: 1159864494577512369
-      Fences_10: 1175483136
-      Fences_11: 1045323754
-      Fences_12: -166337960
-      Fences_13: 1186230325
-      Fences_14: 2127430254
-      Fences_15: 348412358
-      Fences_2: 3953150516908535398
-      Fences_3: 4288597548307622778
-      Fences_4: 1000830306
-      Fences_5: 533000606
-      Fences_6: 499335687
-      Fences_7: -1967719529
-      Fences_8: -537525510
-      Fences_9: 1908793643
+      Basic_Plants_0: 8474670595409141939
+      Basic_Plants_1: -7396305697263286651
+      Basic_Plants_10: 6330426110891526577
+      Basic_Plants_11: -8046388129001153825
+      Basic_Plants_2: 3868332834043518974
+      Basic_Plants_3: 6812107102740459891
+      Basic_Plants_4: -4968072622433853253
+      Basic_Plants_5: -8553166176874854604
+      Basic_Plants_6: 2018227706277626003
+      Basic_Plants_7: -167575426429258219
+      Basic_Plants_8: -1044968166336746788
+      Basic_Plants_9: 934722249265953344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
