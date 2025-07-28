@@ -4,6 +4,7 @@ public class GameManager : MonoBehaviour
 {
    public int ConteoHuevos;
     public static GameManager instancia;
+    
     void Awake()
     {
         if (instancia == null)

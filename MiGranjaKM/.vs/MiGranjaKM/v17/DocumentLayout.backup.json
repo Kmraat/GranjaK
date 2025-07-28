@@ -3,12 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\granjakm\\granjak\\migranjakm\\assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\granjakm\\granjak\\migranjakm\\assets\\scripts\\contarhuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\contarhuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\scripts\\trigovida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trigovida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\granjakm\\granjak\\migranjakm\\assets\\scripts\\contadorhuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\contadorhuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\scripts\\inventarioui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventarioui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\ui\\inventariostyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\inventariostyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +38,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TrigoVida.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\TrigoVida.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrigoVida.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\TrigoVida.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrigoVida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Title": "ContadorHuevo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\ContadorHuevo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ContadorHuevo.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\ContadorHuevo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ContadorHuevo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T08:31:59.605Z",
+              "WhenOpened": "2025-07-28T17:44:27.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovimientoJugador.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\MovimientoJugador.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoJugador.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\MovimientoJugador.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MovimientoJugador.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Title": "ContarHuevo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\ContarHuevo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ContarHuevo.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\ContarHuevo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ContarHuevo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:57:21.384Z",
+              "WhenOpened": "2025-07-28T17:37:39.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventarioUI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\InventarioUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventarioUI.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\InventarioUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventarioUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:56:42.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventarioStyle.uss",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\UI\\InventarioStyle.uss",
+              "RelativeDocumentMoniker": "Assets\\UI\\InventarioStyle.uss",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\UI\\InventarioStyle.uss",
+              "RelativeToolTip": "Assets\\UI\\InventarioStyle.uss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-28T06:36:30.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\GameManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\GameManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\GameManager.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:12:42.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:06:45.221Z",
               "EditorCaption": ""
             }
           ]
