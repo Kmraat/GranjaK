@@ -15,7 +15,7 @@ public class TrigoVida : MonoBehaviour
 
     private IEnumerator CambiarEstado()
     {
-        
+        yield return null;
     }
 
     // Update is called once per frame

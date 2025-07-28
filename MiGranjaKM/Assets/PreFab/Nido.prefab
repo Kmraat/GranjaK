@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1132184401203795249}
   m_Layer: 0
   m_Name: Nido
-  m_TagString: Untagged
+  m_TagString: nido
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

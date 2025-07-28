@@ -66,6 +66,14 @@ public class MovimientoJugador : MonoBehaviour
         }
         
     }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("nido"))
+        {
+            Destroy (collision.gameObject);
+            GameManager.instancia.SumarHuevo();
+        }
+    }
 
     public void SiembraJitomate(InputAction.CallbackContext contexto)
     {

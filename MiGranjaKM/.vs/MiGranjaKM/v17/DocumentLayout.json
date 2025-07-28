@@ -3,19 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\granjakm\\granjak\\migranjakm\\assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\granjakm\\granjak\\migranjakm\\assets\\scripts\\trigovida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trigovida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\granjakm\\granjak\\migranjakm\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gallinamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\MovimientoJugador4Direcciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,49 +21,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrigoVida.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\TrigoVida.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TrigoVida.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\TrigoVida.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TrigoVida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T08:31:59.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GallinaMovimiento.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\GallinaMovimiento.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GallinaMovimiento.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\GallinaMovimiento.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GallinaMovimiento.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\GameManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\GameManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\GameManager.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T08:09:11.703Z",
+              "WhenOpened": "2025-07-28T04:12:42.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovimientoJugador4Direcciones.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\MovimientoJugador4Direcciones.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\MovimientoJugador4Direcciones.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\MovimientoJugador4Direcciones.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\MovimientoJugador4Direcciones.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T17:53:59.855Z"
+              "WhenOpened": "2025-07-28T04:06:45.221Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,7 +57,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoJugador.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\MovimientoJugador.cs",
               "RelativeToolTip": "Assets\\Scripts\\MovimientoJugador.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T08:57:21.384Z",
               "EditorCaption": ""
