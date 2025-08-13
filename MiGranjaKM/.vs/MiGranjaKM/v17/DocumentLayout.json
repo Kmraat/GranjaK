@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\scripts\\contadorhuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\contadorhuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\scripts\\inventarioui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventarioui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|c:\\users\\pc\\documents\\motores\\granjakm\\granjak\\migranjakm\\assets\\scripts\\contadorhuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\contadorhuevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{980237C0-D8DF-B95C-EE95-8516A9F5589D}|Assembly-CSharp.csproj|C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\assets\\ui\\inventariostyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContadorHuevo.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\ContadorHuevo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ContadorHuevo.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InventarioUI.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\MOTORES\\GRANJAKM\\GranjaK\\MiGranjaKM\\Assets\\Scripts\\InventarioUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventarioUI.cs",
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Assets\\UI\\InventarioStyle.uss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-28T06:36:30.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:36:30.542Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T04:06:45.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T04:06:45.221Z"
             }
           ]
         }
