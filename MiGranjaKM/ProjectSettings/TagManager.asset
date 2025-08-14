@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - nido
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Suelo
+    uniqueID: 3970307079
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Colisiones
+    uniqueID: 2828427735
+    locked: 0
+  - name: Cercas
+    uniqueID: 4119733915
+    locked: 0
+  - name: Player
+    uniqueID: 4101818953
+    locked: 0
+  - name: Colinas
+    uniqueID: 2140678271
+    locked: 0
+  m_RenderingLayers:
+  - Default
